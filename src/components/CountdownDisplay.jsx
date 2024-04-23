@@ -1,5 +1,11 @@
 import PropTypes from 'prop-types';
 
+/**
+ * Displays the countdown timer or the completion message.
+ * @param {Object} countdown - Object containing countdown details and state.
+ * @param {Function} resetCountdown - Function to reset the countdown back to the initial form state.
+ * @returns {JSX.Element} The active countdown display or the completion message component.
+ */
 function CountdownDisplay({ countdown, resetCountdown }) {
   return countdown.isComplete ? (
     <div className='complete'>
