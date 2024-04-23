@@ -37,6 +37,14 @@ video {
   background: rgba(255, 255, 255, 0.35);
 }
 
+.app-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
 .container {
   min-width: 580px;
   min-height: 304px;
