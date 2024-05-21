@@ -1,6 +1,6 @@
-# react_Custom Countdown: [LIVE DEMO](https://shcoobz.github.io/react_custom-countdown/)
+# advancedJS_Custom Countdown: [LIVE DEMO](https://shcoobz.github.io/advancedJS_custom-countdown/)
 
-![React Custom Countdown](src/img/react_custom-countdown.png)
+![advancedJS_Custom Countdown](src/img/advancedJS_custom-countdown.png)
 
 ## Summary
 
@@ -40,6 +40,6 @@ The countdown timer is fully responsive and adapts to different device sizes, en
 
 ---
 
-_Note: This document provides an overview of React Custom Countdown. For detailed instructions and more information, please refer to the source code documentation._
+_Note: This document provides an overview of advancedJS_Custom Countdown. For detailed instructions and more information, please refer to the source code documentation._
 
 _This project is a conversion from an earlier version built with vanilla JavaScript and HTML, available [here](https://github.com/Shcoobz/basicJS_custom-countdown/). This conversion integrates React to enhance UI reactivity and maintainability._
